@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\Epic-Tema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA49C9-625C-1AC0-A0A6-28CB5D750A15}|Tema 2 Assembly.csproj|e:\\proyectos\\epic-tema2\\assets\\scripts\\mirrormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA49C9-625C-1AC0-A0A6-28CB5D750A15}|Tema 2 Assembly.csproj|solutionrelative:assets\\scripts\\mirrormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA49C9-625C-1AC0-A0A6-28CB5D750A15}|Tema 2 Assembly.csproj|E:\\Proyectos\\Epic-Tema2\\assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA49C9-625C-1AC0-A0A6-28CB5D750A15}|Tema 2 Assembly.csproj|solutionrelative:assets\\scripts\\ui\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MirrorManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Tema2\\Assets\\Scripts\\MirrorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MirrorManager.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Tema2\\Assets\\Scripts\\MirrorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MirrorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:48:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUiActive.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Tema2\\Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Tema2\\Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ImageUiActive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:35:23.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

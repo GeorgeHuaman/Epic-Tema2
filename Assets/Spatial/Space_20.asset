@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_20
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: 1vkk6nym94eqk4zt6nk6nzbj
+  packageName: "Cuatitlan Subsala 2 Next1\xB0T"
+  thumbnail: {fileID: 2800000, guid: c54c0d356d18cd741a615a708782fa3a, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: tslz391lp787gn4n4en90
+  scene: {fileID: 102900000, guid: c82cfb4fb9a348545b6ac7060f053f49, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 2e9a82f9cce05e740ad273489b42fc19,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
