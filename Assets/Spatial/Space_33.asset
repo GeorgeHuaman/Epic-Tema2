@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_33
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: zfwgsxi74kzh7szseifwsbkb
+  packageName: "NSF Subsala 2 Kids 1\xB0T"
+  thumbnail: {fileID: 2800000, guid: bac1f0ad80eb00145a73247cecca025f, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: tslz391lp787gn4n4en90
+  scene: {fileID: 102900000, guid: 6570d9a9f1e316d48acb71dcda4af642, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 2e9a82f9cce05e740ad273489b42fc19,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
